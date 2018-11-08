@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/chainflux/.android/build-cache/0e39671f3dec60f70ecc2fc4c2f8e97695715f9e/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/chainflux/.android/build-cache/0e39671f3dec60f70ecc2fc4c2f8e97695715f9e/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/chainflux/.android/build-cache/8b64ad15a31854161c78366688740712e10feae0/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/chainflux/.android/build-cache/c34e968baeebb2bfd00302d95a74b85d2979e37e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/chainflux/.android/build-cache/4b959699835731913b0d7e179a0323f19a22f2c9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/chainflux/.android/build-cache/56bc07a3f2ed083bd68c83dc79a56f45f2acd691/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/chainflux/.android/build-cache/66223e2bd0fad0612bd79190d83382d8dead9600/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/chainflux/.android/build-cache/bb3cef67b2bef6153495d823fa74a34ac894ee85/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/chainflux/.android/build-cache/5160324f1435185578293b1ec06fca0bfc97f3ec/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/chainflux/.android/build-cache/1fd66a03e0907fa46869e207d9070e92b3ac2817/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/chainflux/.android/build-cache/4b5b8e75ea67eb534f52c79d5895ed0bf6f1b139/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/chainflux/.android/build-cache/de00331702fe4b8ddb5f3a483532c57fa8315891/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/chainflux/.android/build-cache/c252883aa3005bf58facc191fbe1462289bf6337/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/chainflux/.android/build-cache/73eaaa4bf4ad178a607ed5969bbabdb24e1b8e2b/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.murmur.MainActivity
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/chainflux/.android/build-cache/0e39671f3dec60f70ecc2fc4c2f8e97695715f9e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/chainflux/.android/build-cache/8b64ad15a31854161c78366688740712e10feae0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/chainflux/.android/build-cache/c34e968baeebb2bfd00302d95a74b85d2979e37e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/chainflux/.android/build-cache/4b959699835731913b0d7e179a0323f19a22f2c9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/chainflux/.android/build-cache/56bc07a3f2ed083bd68c83dc79a56f45f2acd691/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/chainflux/.android/build-cache/66223e2bd0fad0612bd79190d83382d8dead9600/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/chainflux/.android/build-cache/bb3cef67b2bef6153495d823fa74a34ac894ee85/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/chainflux/.android/build-cache/5160324f1435185578293b1ec06fca0bfc97f3ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/chainflux/.android/build-cache/1fd66a03e0907fa46869e207d9070e92b3ac2817/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/chainflux/.android/build-cache/4b5b8e75ea67eb534f52c79d5895ed0bf6f1b139/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/chainflux/.android/build-cache/de00331702fe4b8ddb5f3a483532c57fa8315891/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chainflux/.android/build-cache/cbe74da9b782d20681ccf1609b545c3c49dab504/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/chainflux/.android/build-cache/f03cbe3399fe383315562da5c118f423ccbc3784/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/chainflux/.android/build-cache/045999998f7a5b406bbd75b8f5063497c0a14d18/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/chainflux/.android/build-cache/69f8a9e568632d206bf987e0608d6ebcad2e657f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/chainflux/.android/build-cache/ae9f85fdb20a4c3fea7b82e5712e5d0194e1efed/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/chainflux/.android/build-cache/e776b61ae7d06fdc32f47afcf8a5fce7eeda3ef5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/chainflux/.android/build-cache/eb9d771fafc9f9f9e441c3b25ee665aebfb7d5a1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/chainflux/.android/build-cache/c252883aa3005bf58facc191fbe1462289bf6337/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/chainflux/.android/build-cache/8b64ad15a31854161c78366688740712e10feae0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/chainflux/.android/build-cache/8b64ad15a31854161c78366688740712e10feae0/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/chainflux/.android/build-cache/c34e968baeebb2bfd00302d95a74b85d2979e37e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/chainflux/.android/build-cache/4b959699835731913b0d7e179a0323f19a22f2c9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/chainflux/.android/build-cache/56bc07a3f2ed083bd68c83dc79a56f45f2acd691/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/chainflux/.android/build-cache/66223e2bd0fad0612bd79190d83382d8dead9600/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/chainflux/.android/build-cache/bb3cef67b2bef6153495d823fa74a34ac894ee85/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/chainflux/.android/build-cache/5160324f1435185578293b1ec06fca0bfc97f3ec/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/chainflux/.android/build-cache/1fd66a03e0907fa46869e207d9070e92b3ac2817/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/chainflux/.android/build-cache/4b5b8e75ea67eb534f52c79d5895ed0bf6f1b139/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/chainflux/.android/build-cache/8b64ad15a31854161c78366688740712e10feae0/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/chainflux/.android/build-cache/8b64ad15a31854161c78366688740712e10feae0/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/chainflux/.android/build-cache/de00331702fe4b8ddb5f3a483532c57fa8315891/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/chainflux/.android/build-cache/de00331702fe4b8ddb5f3a483532c57fa8315891/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/chainflux/.android/build-cache/de00331702fe4b8ddb5f3a483532c57fa8315891/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/chainflux/Downloads/murmur-master/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

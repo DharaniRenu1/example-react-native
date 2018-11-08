@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/0e39671f3dec60f70ecc2fc4c2f8e97695715f9e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/chainflux/Downloads/murmur-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_509ee52e982d21fc771eee161244842ac9d61a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/0e39671f3dec60f70ecc2fc4c2f8e97695715f9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/chainflux/Downloads/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_7dec97cfc6ca7f90be5c832acf9b3bd31888412d.jar" />
+    </item>
+
+</items>
